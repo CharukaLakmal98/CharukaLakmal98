@@ -9,7 +9,7 @@
 
 
 -------------------------
-💻 I am a self-taught Full Stack Developer and Machine Learning Developer.<br> 📚 Undergraduate in BSc (Hons) Artificial Intelligence at the University of Moratuwa, Sri Lanka..<br> 📝 I have a strong interest in Data Science and Artificial Intelligence.<br> 🔭 Currently working on Machine Learning and Deep Learning.<br> 🌱 Learning about Computer Vision and Machine Learning concepts.<br> 🌟 Main programming languages: Python, JavaScript, and Java.<br> 🚩 Interested in Full Stack Machine Learning Application development.<br> 🎵 I love metal, lofi, jazz, and soft music.<br>
+💻 I am a self-taught Full Stack Developer and Machine Learning Developer.<br> 📚 Undergraduate in BSc (Hons) Artificial Intelligence at the University of Moratuwa, Sri Lanka..<br> 📝 I have a strong interest in Data Science and Artificial Intelligence.<br> 🔭 Currently working on Machine Learning and Deep Learning.<br> 🌱 Learning about Computer Vision and Machine Learning concepts.<br> 🌟 Main programming languages: Python, JavaScript, and Java.<br> 🚩 Interested in Full Stack Machine Learning Application development.<br> 🎵 I love music, Traveling, Hiking, Coding.<br>
 
 <hr>
 <details open="">
