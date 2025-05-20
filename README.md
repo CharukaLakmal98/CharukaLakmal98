@@ -12,12 +12,7 @@
 💻 I am a self-taught Full Stack Developer and Machine Learning Developer.<br> 📚 Undergraduate in BSc (Hons) Artificial Intelligence at the University of Moratuwa, Sri Lanka..<br> 📝 I have a strong interest in Data Science and Artificial Intelligence.<br> 🔭 Currently working on Machine Learning and Deep Learning.<br> 🌱 Learning about Computer Vision and Machine Learning concepts.<br> 🌟 Main programming languages: Python, JavaScript, and Java.<br> 🚩 Interested in Full Stack Machine Learning Application development.<br> 🎵 I love music, Traveling, Hiking, Coding.<br>
 
 <hr>
-<details>
-<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-<img alt="Charuka's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=CharukaLakmal98&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Charuka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharukaLakmal98&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</details>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
